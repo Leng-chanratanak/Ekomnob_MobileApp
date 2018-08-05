@@ -1,0 +1,147 @@
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "00S-i4-nED"; */
+"00S-i4-nED.normalTitle" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "05s-Jw-z6x"; */
+"05s-Jw-z6x.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Choose content type"; ObjectID = "0d6-wT-BtI"; */
+"0d6-wT-BtI.placeholder" = "Choose content type";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "1fu-Wv-tUz"; */
+"1fu-Wv-tUz.normalTitle" = "Post";
+
+/* Class = "UITabBarItem"; title = "Following"; ObjectID = "4Qu-Ou-OUt"; */
+"4Qu-Ou-OUt.title" = "Following";
+
+/* Class = "UITextField"; placeholder = "choose category"; ObjectID = "8UM-Cz-x6i"; */
+"8UM-Cz-x6i.placeholder" = "choose category";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "9cs-LZ-bQ5"; */
+"9cs-LZ-bQ5.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AgW-m4-BEu"; */
+"AgW-m4-BEu.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "Auf-PM-bYk"; */
+"Auf-PM-bYk.normalTitle" = "Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B7Z-NI-ZJ2"; */
+"B7Z-NI-ZJ2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Short Desc"; ObjectID = "BiS-Xl-A98"; */
+"BiS-Xl-A98.text" = "Short Desc";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "CQa-5j-cRp"; */
+"CQa-5j-cRp.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E23-yK-6BB"; */
+"E23-yK-6BB.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "EE6-Ji-SK6"; */
+"EE6-Ji-SK6.placeholder" = "Email Address";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "FVN-m3-n0T"; */
+"FVN-m3-n0T.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fc6-H9-pZL"; */
+"Fc6-H9-pZL.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "GoB-Yr-Xfi"; */
+"GoB-Yr-Xfi.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Notification"; ObjectID = "HMm-39-zoI"; */
+"HMm-39-zoI.title" = "Notification";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Iah-ya-ZSq"; */
+"Iah-ya-ZSq.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "Jbs-7S-Aez"; */
+"Jbs-7S-Aez.title" = "More";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "Nlk-re-yYg"; */
+"Nlk-re-yYg.normalTitle" = "Log out";
+
+/* Class = "UILabel"; text = "Please provide your recovery email"; ObjectID = "QzA-G5-O6S"; */
+"QzA-G5-O6S.text" = "Please provide your recovery email";
+
+/* Class = "UILabel"; text = "By Author"; ObjectID = "RbH-G3-8ap"; */
+"RbH-G3-8ap.text" = "By Author";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "TO4-va-dxk"; */
+"TO4-va-dxk.title" = "Home";
+
+/* Class = "UIBarButtonItem"; title = "Logo"; ObjectID = "TQD-lX-3NW"; */
+"TQD-lX-3NW.title" = "Logo";
+
+/* Class = "UILabel"; text = "Don't have account?"; ObjectID = "UYr-5D-UlX"; */
+"UYr-5D-UlX.text" = "Don't have account?";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "V12-Ac-lft"; */
+"V12-Ac-lft.normalTitle" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "Vo3-Rj-vrf"; */
+"Vo3-Rj-vrf.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xd0-ck-zcW"; */
+"Xd0-ck-zcW.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "ZHm-6n-Xha"; */
+"ZHm-6n-Xha.placeholder" = "Title";
+
+/* Class = "UITextField"; placeholder = "Youtube URL"; ObjectID = "as1-fJ-uXJ"; */
+"as1-fJ-uXJ.placeholder" = "Youtube URL";
+
+/* Class = "UITextField"; placeholder = "Long Dese"; ObjectID = "cAS-yu-qvU"; */
+"cAS-yu-qvU.placeholder" = "Long Dese";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "cVR-Sl-6qo"; */
+"cVR-Sl-6qo.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "eAM-uj-fOR"; */
+"eAM-uj-fOR.normalTitle" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "foy-ka-oNM"; */
+"foy-ka-oNM.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fpm-Ib-zyj"; */
+"fpm-Ib-zyj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gae-gG-9kV"; */
+"gae-gG-9kV.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Trending"; ObjectID = "jEe-Rs-u9y"; */
+"jEe-Rs-u9y.title" = "Trending";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mCu-7G-ygY"; */
+"mCu-7G-ygY.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nga-ec-rmL"; */
+"nga-ec-rmL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "o5W-de-BrO"; */
+"o5W-de-BrO.normalTitle" = "Forgot password";
+
+/* Class = "UITextField"; placeholder = "Choose Language"; ObjectID = "ofh-ba-cAC"; */
+"ofh-ba-cAC.placeholder" = "Choose Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pBS-dS-z6P"; */
+"pBS-dS-z6P.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pQ9-0Z-S6U"; */
+"pQ9-0Z-S6U.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "rYF-Rl-glG"; */
+"rYF-Rl-glG.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tDl-Zq-pBl"; */
+"tDl-Zq-pBl.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Short desc"; ObjectID = "wrQ-5q-jzZ"; */
+"wrQ-5q-jzZ.placeholder" = "Short desc";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wro-6O-bw9"; */
+"wro-6O-bw9.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "xh5-Xp-snh"; */
+"xh5-Xp-snh.normalTitle" = "Google";
